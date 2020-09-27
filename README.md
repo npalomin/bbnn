@@ -8,4 +8,6 @@ https://github.com/alan-turing-institute/the-turing-way/blob/master/workshops/bo
 ## Open SM net (online with Binder)
 https://github.com/gboeing/osmnx-examples
 
+https://github.com/william3031/osmnx_test/blob/master/test_polygons.ipynb
+
 
